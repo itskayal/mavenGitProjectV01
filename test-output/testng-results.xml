@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-14T01:31:10 IST" name="Suite" finished-at="2024-03-14T01:31:19 IST" duration-ms="9315">
+    <groups>
+    </groups>
+    <test started-at="2024-03-14T01:31:10 IST" name="TestGoogle" finished-at="2024-03-14T01:31:15 IST" duration-ms="5013">
+      <class name="MavenTutorial.BrowserTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenTutorial.BrowserTest@19e4653c]" started-at="2024-03-14T01:31:10 IST" name="setup" finished-at="2024-03-14T01:31:11 IST" duration-ms="1755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestGoogle()[pri:0, instance:MavenTutorial.BrowserTest@19e4653c]" started-at="2024-03-14T01:31:11 IST" name="TestGoogle" finished-at="2024-03-14T01:31:15 IST" duration-ms="3076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGoogle -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:MavenTutorial.BrowserTest@19e4653c]" started-at="2024-03-14T01:31:15 IST" name="TearDown" finished-at="2024-03-14T01:31:15 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- MavenTutorial.BrowserTest -->
+    </test> <!-- TestGoogle -->
+    <test started-at="2024-03-14T01:31:10 IST" name="Testorange" finished-at="2024-03-14T01:31:19 IST" duration-ms="9315">
+      <class name="MavenTutorial.BrowserTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MavenTutorial.BrowserTest@7c137fd5]" started-at="2024-03-14T01:31:10 IST" name="setup" finished-at="2024-03-14T01:31:11 IST" duration-ms="1755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TestOrangeHRMLogin()[pri:0, instance:MavenTutorial.BrowserTest@7c137fd5]" started-at="2024-03-14T01:31:11 IST" name="TestOrangeHRMLogin" finished-at="2024-03-14T01:31:19 IST" duration-ms="7153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestOrangeHRMLogin -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:MavenTutorial.BrowserTest@7c137fd5]" started-at="2024-03-14T01:31:19 IST" name="TearDown" finished-at="2024-03-14T01:31:19 IST" duration-ms="373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- MavenTutorial.BrowserTest -->
+    </test> <!-- Testorange -->
+  </suite> <!-- Suite -->
+</testng-results>
